@@ -1,0 +1,10 @@
+@extends('layouts.master')
+@section('title')
+Notifications
+@endsection
+@section('bc')
+Notifications
+@endsection
+@section('content')
+<notifications></notifications>
+@endsection

@@ -1,0 +1,10 @@
+@extends('layouts.master')
+@section('title')
+Rooms
+@endsection
+@section('bc')
+Rooms
+@endsection
+@section('content')
+<room></room>
+@endsection
